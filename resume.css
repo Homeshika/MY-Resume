@@ -1,0 +1,22 @@
+.div{
+    width: 70%;
+    height: auto;
+     margin-left: 15%;
+}
+h1{
+    text-align: center;
+    background-color: rgb(75, 190, 236);
+}
+h2{
+    text-align: center;
+    background-color: rgb(75, 190, 236);
+}
+.box{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.g{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: rgb(75, 190, 236);
+}
